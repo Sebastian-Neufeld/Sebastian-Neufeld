@@ -2,7 +2,7 @@
 - 👀 I’m interested in Neuroscience
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on my master thesis with other lab members
-- 📫 How to reach me maybe here?
+- 📫 How to reach me: Maybe here?
 
 <!---
 Sebastian-Neufeld/Sebastian-Neufeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
